@@ -4,5 +4,5 @@
 
 @guyer BSL has its own built-in warranty, right? could that be a cause for worry?
 
-[!WARNING]
-yurt
+> [!WARNING]
+> it worked! :small_red_triangle:
