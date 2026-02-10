@@ -1,3 +1,0 @@
-# this file
-## is doomed
-### to be deleted
